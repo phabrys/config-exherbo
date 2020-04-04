@@ -1,0 +1,11 @@
+cave sync
+cave resolve world -c
+cave resolve tmux
+cave resolve systemd dracut
+compile kernel
+cave resolve NetworkManager
+cave resolve linux-firmware
+cave resolve alsa-utils
+cave resolve xorg-server
+cave resolve xf86-video-intel
+cave resolve gnome
