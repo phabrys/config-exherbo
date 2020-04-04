@@ -8,4 +8,6 @@ cave resolve linux-firmware
 cave resolve alsa-utils
 cave resolve xorg-server
 cave resolve xf86-video-intel
+cave resolve llvm webkit clang
+eclectic clang llvm
 cave resolve gnome
