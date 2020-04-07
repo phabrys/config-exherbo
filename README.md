@@ -1,4 +1,3 @@
-  GNU nano 4.9.1                                          README.md                                           Modifié  
 # config-exherbo
 
 ## Installation d'Ehxerbo
@@ -21,5 +20,5 @@ Etapes d'installation d'Exherbo
 5. chroot /mnt/exherbo /bin/bash
 6. source /etc/profile
 7. export PS1="(exherbo) $PS1"
-8. git clone https://github.com/phabrys/config-exherbo.git
+8. git clone https://github.com/phabrys/config-exherbo.git /usr/local/etc
 
